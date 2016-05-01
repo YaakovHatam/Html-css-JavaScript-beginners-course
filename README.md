@@ -1,1 +1,1 @@
-# Html-css-JavaScript-beginners-course
+# Html, css & JavaScript beginners course
