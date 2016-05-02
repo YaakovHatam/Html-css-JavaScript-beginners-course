@@ -1,0 +1,24 @@
+Download Brackets Text Editor:
+http://brackets.io
+
+I want to learn more HTML!
+Good places for HTML references:
+
+Mozilla Foundation Developer Network
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+Web Hypertext Application Technology Working Group
+http://www.whatwg.org/
+
+W3C Website
+http://w3.org/
+
+W3Schools Website 
+http://w3schools.com/
+note: This website is good when used as a starting place for viewing examples, and references for tags and attributes, but for detailed information on correct use and standards other resources have better and more detailed information.
+
+CanIUse: Browser Compatibility
+http://caniuse.com
+
+Complete List of HTML Meta Tags
+https://gist.github.com/kob-e/ce6e2a6dd02c78be541d5b0befbd35f9
