@@ -1,0 +1,29 @@
+
+/*--------- Text Color Styles--------- */
+h1 {
+    font-size: 42px;
+    color: rgba(120,176,50,1);
+}
+
+h2 {
+    font-size: 27px;
+    color: rgba(249,255,235,1);
+}
+
+h3 {
+    font-size: 18px;
+}
+/*--------- -------- */
+
+p {
+    color: rgba(249,255,255,1);
+}
+
+body {
+    background-color: rgba(34, 34, 34, 1);
+}
+
+img {
+    width: 400px;
+    border: 1px solid rgba(105, 105, 105, 1);
+}
