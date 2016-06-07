@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(31, 31, 31);
+    color: rgb(191, 191, 191);
+    padding: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;   
+}
+
+em {
+    color: rgb(224, 122, 5);
+}
+

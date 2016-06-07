@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(31, 31, 31);
+    color: rgb(191, 191, 191);
+    padding: 30px;
+}
+
+h1 {
+    font-weight: normal;   
+}
+
+em {
+    color: rgb(224, 122, 5);   
+    background: rgba(224, 224, 224, 0.26);
+}
+
+a {
+    color: rgb(137, 161, 163);
+    background: rgba(198, 197, 197, 0.33);
+}

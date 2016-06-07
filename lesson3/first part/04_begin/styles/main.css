@@ -1,0 +1,22 @@
+body {
+    background-color: #1f1f1f;
+    color: #bfbfbf;
+    padding: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;   
+}
+
+em {
+    color: #e07a05;   
+}
+
+a {
+    color: #89a1a3;
+}
+
+p {
+    background-color: rgba(137, 161, 163, 0.28);   
+}
+
