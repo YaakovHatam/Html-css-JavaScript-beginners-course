@@ -156,3 +156,10 @@ body {
     width: 800px;
     margin: 0 auto;
 }
+
+div {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+

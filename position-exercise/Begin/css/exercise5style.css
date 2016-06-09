@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #9bb19c url(bg.gif) repeat top left; 
+	font-family: verdana, helvetica, sans-serif;
+	}
+	
+h1 {
+	font-size: 60px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+	margin: 0;
+}
+
+#box-a {
+	background-color: #b2b5cd;
+	width: 100px;
+	padding: 10px;
+	font-size: 11px;
+	color: #000;
+	}
+	
+#box-b {
+	width: 600px;
+	padding: 10px;
+	font-size: 20px;
+	color: #cfc;
+	}
+	
+#box-b p {
+	line-height: 160%;
+	}
+	
+#box-c {
+	background-color: #cfc;
+	
+	width: 450px;
+	padding: 10px 20px;
+	font-size: 12px;
+	line-height: 150%;
+	color: #000;
+	}
+	
+#box-d {
+	width: 500px;
+	margin: 0;
+	padding: 0px;
+	font-size: 11px;
+	color: #000;
+	}
