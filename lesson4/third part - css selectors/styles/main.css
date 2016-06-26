@@ -1,0 +1,100 @@
+
+/*
+* {
+    color: red;
+ margin: 0;
+ padding: 0;
+}
+*/
+
+body {
+    width: 500px;
+    margin:0 auto;
+}
+
+main#page-main h3#s.a {
+    color: blue;
+}
+
+
+h3.a {
+    color: red;
+}
+input {
+    color: blue;
+}
+
+input.error {
+    color: red;
+}
+
+main#page-main div p.pclass span {
+    color: aqua;
+}
+
+.error a{
+  color: red;
+}
+
+ul + p {
+   color: red;
+}
+
+ul ~ p {
+   color: red;
+}
+
+a[title] {
+   color: green;
+}
+
+a[href="http://www.google.com"] {
+  color: #c23c23; 
+}
+
+a[href*="walla"] {
+  color: #1f6053; 
+}
+
+a[href^="http"] {
+  color: #1f6053; 
+}
+
+a[href$="walla"] {
+  color: #1f6053; 
+}
+
+
+a[href$="pdf"] {
+    background-position: left center;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+      background-image: url("../images/pdf.jpeg");
+
+}
+
+a[href$="docx"] {
+      background-position: left center;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+      background-image: url("../images/word.png");
+}
+
+input[type=radio]:checked {
+   color:Red;
+}
+
+
+div.before-example::before {
+  content: "hi";
+}
+
+div.before-example::after {
+  content: "man";
+}
+
+div:hover {
+  background: #e3e3e3;
+
+}
+*/

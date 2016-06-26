@@ -1,0 +1,205 @@
+.con {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.box1 {
+    margin-top: 10px;
+    width: 90px;
+    height: 90px;
+    background-color: red;
+    position: absolute;
+} 
+
+.innerbox1 {
+    height: 60px;
+    width: 60px;
+    background-color: rosybrown;
+    position: absolute;
+    top:0;
+}
+.box2 {
+    background-color: blue;
+}
+
+
+body {
+    background-color: gray;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+h3 {
+    font-size: 1.5em
+}
+
+
+
+div {
+    float: right;
+    width: 50px;
+    height: 50px;
+}
+
+
+div#a div#b #c #d #e #f #g #h #i #j #k {
+    border: 1px solid black;
+    width: 350px;
+}
+
+p {
+    width: 150px;
+}
+
+.big {
+    font-size: x-large;
+    min-height: 400px;
+}
+
+    
+
+
+div#leader p.big.content.advertisment  {
+    background-color: black;
+    color: white;
+}
+
+
+#container * {
+    border: 1px solid black;
+}
+
+
+a:link { color: red; }
+a:visted { color: purple; }
+
+ul + p {
+    color: red;
+}
+
+div > ul {
+    border: 1px solid black;
+}
+
+ul ~ p {
+    color: red;
+}
+
+a[title] {
+    color: green;
+}
+
+a[href="http://www.google.com"] {
+    color: #1f6053;
+}
+
+a[href*="co.il"] {
+    color: #1f6053;
+}
+
+a[href^="https"] {
+    color: #1f6053;
+}
+
+a[href$=".jpg"] {
+    color: red;
+}
+
+a[title~="link"] {
+    color: red;   
+}
+
+input[type=radio]:checked {
+    border: 1px solid black;
+}
+
+.error::after {
+    content: "*";
+    color: red;
+}
+
+div:hover {
+    background: black;
+    color: white;
+}
+
+div:not(#container) {
+    color: blue;
+}
+
+p::first-line {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+p::first-letter {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+li:nth-child(3) {
+    color: red;
+}
+
+li:nth-child(4n) {
+    color: red;
+}
+
+
+li:nth-last-child(3) {
+    color: red;
+}
+
+li:nth-last-child(4n) {
+    color: red;
+}
+
+ul li:first-child {
+    border-top: none;
+}
+
+ul li:last-child {
+    border-bottom: none;
+}
+
+div p:only-child {
+    color: red;
+}
+
+
+X:nth-of-type(n) {
+    border: 1px solid black;
+}
+
+ul:nth-of-type(3) {
+    border: 1px solid black;
+}
+
+
+
+X:nth-last-of-type(n) {
+    border: 1px solid black;
+}
+
+ul:nth-last-of-type(3) {
+    border: 1px solid black;
+}
+
+
+X:only-of-type {
+    font-weight: bold;
+}
+li:only-of-type {
+    font-weight: bold;
+}
+
